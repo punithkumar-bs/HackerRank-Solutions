@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java Currency Formatter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Datatypes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Date and Time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java End-of-file" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java If-Else" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Loops I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Loops II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Output Formatting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Static Initializer Block" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Stdin and Stdout I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Stdin and Stdout II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Welcome to Java!" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
