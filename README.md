@@ -1,2 +1,3 @@
-# HackerRank-Solutions
-Solutions to hacker rank problems
+Efficient solutions to HackerRank problems
+
+Solutions are coded using Java 8
