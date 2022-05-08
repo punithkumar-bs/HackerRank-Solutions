@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Calculating Volume" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Abstract Class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Inheritance I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Inheritance II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Instanceof keyword" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Method Overriding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Method Overriding 2 (Super Keyword)" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

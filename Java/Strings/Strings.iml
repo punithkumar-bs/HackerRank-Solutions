@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java Anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Regex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Regex 2 - Duplicate Words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Regex 3 - Username Checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java String Compare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java String Reverse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java String Tokens" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Strings Introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pattern Syntax Checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tag Content Extractor" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

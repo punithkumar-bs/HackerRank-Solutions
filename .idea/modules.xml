@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HackerRank-Solutions.iml" filepath="$PROJECT_DIR$/.idea/HackerRank-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Java/Introduction/Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Object Oriented Programming/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/Java/Object Oriented Programming/Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Strings/Strings.iml" filepath="$PROJECT_DIR$/Java/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>
